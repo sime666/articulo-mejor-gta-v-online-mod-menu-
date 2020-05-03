@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(18, 19, 18);
+    height: 100%;
+    font-size: large;
+
+}
+
+#titulos{
+    text-align: center;
+    color: rgb(134, 0, 0);
+    text-shadow:  #000000  3px 3px;
+}
+
+#fecha{
+    text-align: center;
+}
+
+
+#articulo{
+    text-align: center;
+}
+
+#lista{
+    color: rgb(134, 0, 0);
+}
+
+aside {
+    text-align: center;
+}
+
+#sugerencias {
+    float: inline-end;
+    margin-top: 10px;
+}
+
+#formulario {
+
+}
+
+#informacion {
+    float: left;
+}
